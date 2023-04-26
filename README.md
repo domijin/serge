@@ -1,3 +1,9 @@
+# Folk note
+
+1. direct the serge server to use external redis to persist the chat history
+2. expose two new apis: create_embedding and completion
+3. add a stub model to evaluate
+
 # Serge - LLaMA made easy 🦙
 
 ![License](https://img.shields.io/github/license/nsarrazin/serge)
